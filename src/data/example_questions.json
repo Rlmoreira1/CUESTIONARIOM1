@@ -1,0 +1,66 @@
+﻿[
+  {
+    "id": 1,
+    "type": "multiple-choice",
+    "question": "¿Cuál es la capital de Francia?",
+    "options": ["Londres", "París", "Berlín"],
+    "answer": "París"
+  },
+  {
+    "id": 2,
+    "type": "fill-in-the-blank",
+    "question": "El elemento químico con símbolo 'O' es el ________.",
+    "answer": "Oxígeno"
+  },
+  {
+    "id": 3,
+    "type": "yes-no",
+    "question": "¿Es el sol una estrella?",
+    "answer": "SÍ"
+  },
+  {
+    "id": 4,
+    "type": "multiple-choice",
+    "question": "¿Cuál de estos es un lenguaje de programación?",
+    "options": ["HTML", "JavaScript", "Markdown"],
+    "answer": "JavaScript"
+  },
+  {
+    "id": 5,
+    "type": "fill-in-the-blank",
+    "question": "La capital de España es ________.",
+    "answer": "Madrid"
+  },
+  {
+    "id": 6,
+    "type": "yes-no",
+    "question": "¿La Tierra es plana?",
+    "answer": "NO"
+  },
+  {
+    "id": 7,
+    "type": "multiple-choice",
+    "question": "¿Quién pintó la Mona Lisa?",
+    "options": ["Van Gogh", "Da Vinci", "Picasso"],
+    "answer": "Da Vinci"
+  },
+  {
+    "id": 8,
+    "type": "fill-in-the-blank",
+    "question": "El planeta más cercano al sol es ________.",
+    "answer": "Mercurio"
+  },
+  {
+    "id": 9,
+    "type": "yes-no",
+    "question": "¿El agua hierve a 100 grados Celsius a nivel del mar?",
+    "answer": "SÍ"
+  },
+  {
+    "id": 10,
+    "type": "multiple-choice",
+    "question": "¿Qué continente es famoso por los canguros?",
+    "options": ["África", "Asia", "Oceanía"],
+    "answer": "Oceanía"
+  }
+]

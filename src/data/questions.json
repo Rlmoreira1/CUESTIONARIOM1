@@ -1,0 +1,1048 @@
+[
+  {
+    "id": 1,
+    "type": "multiple-choice",
+    "question": "¿A qué se refiere el atributo de 'sentido' en el diseño moderno?",
+    "options": [
+      "A la ornamentación del edificio",
+      "A la relación del objeto con su exterior (sitio y lugar)",
+      "Al costo económico de la obra"
+    ],
+    "answer": "A la relación del objeto con su exterior (sitio y lugar)"
+  },
+  {
+    "id": 2,
+    "type": "fill-in-the-blank",
+    "question": "En el diseño moderno, la 'consistencia' se define como las relaciones ________ al diseño.",
+    "answer": "interiores"
+  },
+  {
+    "id": 3,
+    "type": "multiple-choice",
+    "question": "¿Qué teoría psicológica se relaciona con el concepto de 'consistencia' arquitectónica?",
+    "options": ["Psicoanálisis", "Conductismo", "Gestalt"],
+    "answer": "Gestalt"
+  },
+  {
+    "id": 4,
+    "type": "yes-no",
+    "question": "¿Se rompe el equilibrio de la identidad de la obra si se modifica una parte de un conjunto en equilibrio?",
+    "answer": "SÍ"
+  },
+  {
+    "id": 5,
+    "type": "multiple-choice",
+    "question": "¿Cuáles son los medios plásticos fundamentales según el atributo de equivalencia?",
+    "options": [
+      "El plano y el prisma rectangular",
+      "La esfera y el cilindro",
+      "El arco y la bóveda"
+    ],
+    "answer": "El plano y el prisma rectangular"
+  },
+  {
+    "id": 6,
+    "type": "multiple-choice",
+    "question": "¿Cuáles son los colores primarios aceptados en la estética de la modernidad descrita?",
+    "options": ["Rojo, azul y amarillo", "Verde, naranja y violeta", "Cian, magenta y amarillo"],
+    "answer": "Rojo, azul y amarillo"
+  },
+  {
+    "id": 7,
+    "type": "fill-in-the-blank",
+    "question": "En la arquitectura moderna, el espacio vacío se considera como un ________.",
+    "answer": "no-color"
+  },
+  {
+    "id": 8,
+    "type": "multiple-choice",
+    "question": "¿Qué elementos componen la categoría de 'no-color'?",
+    "options": ["Rojo y Azul", "Blanco, negro y gris", "Marrón y Verde"],
+    "answer": "Blanco, negro y gris"
+  },
+  {
+    "id": 9,
+    "type": "multiple-choice",
+    "question": "¿Cómo se define la 'equivalencia' de medios plásticos?",
+    "options": [
+      "Elementos iguales en dimensiones",
+      "Elementos con el mismo valor compositivo pese a ser diferentes",
+      "La repetición exacta de un módulo"
+    ],
+    "answer": "Elementos con el mismo valor compositivo pese a ser diferentes"
+  },
+  {
+    "id": 10,
+    "type": "multiple-choice",
+    "question": "¿Qué relación visual se busca al oponer una superficie grande de no-color con una pequeña de color?",
+    "options": ["Desorden", "Simetría bilateral", "Equilibrio"],
+    "answer": "Equilibrio"
+  },
+  {
+    "id": 11,
+    "type": "fill-in-the-blank",
+    "question": "El equilibrio constante se alcanza mediante la línea ________ en su oposición principal.",
+    "answer": "recta"
+  },
+  {
+    "id": 12,
+    "type": "multiple-choice",
+    "question": "¿Qué elemento causa un 'ritmo vivo' en la composición arquitectónica?",
+    "options": ["La decoración", "Las relaciones de proporciones", "El uso de madera"],
+    "answer": "Las relaciones de proporciones"
+  },
+  {
+    "id": 13,
+    "type": "multiple-choice",
+    "question": "¿En qué aspecto surge el talento e intuición del diseñador?",
+    "options": [
+      "En elegir el mobiliario",
+      "En la resolución del equilibrio y la composición rítmica",
+      "En el cálculo estructural"
+    ],
+    "answer": "En la resolución del equilibrio y la composición rítmica"
+  },
+  {
+    "id": 14,
+    "type": "multiple-choice",
+    "question": "¿Qué sistema facilita las relaciones de equivalencia en la arquitectura moderna?",
+    "options": ["La diagonalidad", "La ortogonalidad", "La organicidad"],
+    "answer": "La ortogonalidad"
+  },
+  {
+    "id": 15,
+    "type": "multiple-choice",
+    "question": "¿Cómo actúan los colores primarios en una composición equilibrada?",
+    "options": [
+      "Como elementos neutros",
+      "Como elementos de tensión y dinamismo",
+      "Como elementos secundarios"
+    ],
+    "answer": "Como elementos de tensión y dinamismo"
+  },
+  {
+    "id": 16,
+    "type": "fill-in-the-blank",
+    "question": "La equivalencia significa un equilibrio de ________.",
+    "answer": "fuerzas"
+  },
+  {
+    "id": 17,
+    "type": "multiple-choice",
+    "question": "¿Cuál es una dualidad de oposición utilizada en la composición moderna?",
+    "options": ["Luz/Sombra", "Vertical/Horizontal", "Nuevo/Viejo"],
+    "answer": "Vertical/Horizontal"
+  },
+  {
+    "id": 18,
+    "type": "multiple-choice",
+    "question": "¿Por qué el equilibrio en la modernidad es 'dinámico'?",
+    "options": [
+      "Porque se mueve físicamente",
+      "Por la contraposición de fuerzas opuestas",
+      "Porque cambia cada hora"
+    ],
+    "answer": "Por la contraposición de fuerzas opuestas"
+  },
+  {
+    "id": 19,
+    "type": "fill-in-the-blank",
+    "question": "Que la forma es un 'a posteriori' significa que es un ________ del trabajo.",
+    "answer": "resultado"
+  },
+  {
+    "id": 20,
+    "type": "fill-in-the-blank",
+    "question": "El rechazo a buscar una meta puramente formal se denomina ________.",
+    "answer": "formalismo"
+  },
+  {
+    "id": 21,
+    "type": "fill-in-the-blank",
+    "question": "Según Mies, la plenitud de la forma es la expresión elemental de su ________.",
+    "answer": "solución"
+  },
+  {
+    "id": 22,
+    "type": "multiple-choice",
+    "question": "Defina el atributo de 'Rigor'.",
+    "options": [
+      "Hacer edificios pesados",
+      "Uso estricto de elementos necesarios eliminando lo superfluo",
+      "Uso de materiales caros"
+    ],
+    "answer": "Uso estricto de elementos necesarios eliminando lo superfluo"
+  },
+  {
+    "id": 23,
+    "type": "multiple-choice",
+    "question": "¿Cuál es el enfoque principal de la 'Precisión'?",
+    "options": [
+      "La organización eficiente constructiva y tecnológica",
+      "El dibujo a mano",
+      "La velocidad de obra"
+    ],
+    "answer": "La organización eficiente constructiva y tecnológica"
+  },
+  {
+    "id": 24,
+    "type": "multiple-choice",
+    "question": "¿Qué busca la 'Economía' visual?",
+    "options": [
+      "Gastar menos dinero",
+      "Máximo impacto con el mínimo de recursos",
+      "Usar materiales reciclados"
+    ],
+    "answer": "Máximo impacto con el mínimo de recursos"
+  },
+  {
+    "id": 25,
+    "type": "multiple-choice",
+    "question": "¿A qué se refiere la 'Universalidad'?",
+    "options": [
+      "A que el edificio esté en todo el mundo",
+      "A la forma como sistema de relaciones trascendente",
+      "A que todos puedan entrar"
+    ],
+    "answer": "A la forma como sistema de relaciones trascendente"
+  },
+  {
+    "id": 26,
+    "type": "fill-in-the-blank",
+    "question": "La capacidad de cambio y adaptabilidad funcional se conoce como ________.",
+    "answer": "transformación"
+  },
+  {
+    "id": 27,
+    "type": "multiple-choice",
+    "question": "¿Cómo se manifiesta la 'ligereza física'?",
+    "options": [
+      "Usando colores claros",
+      "Minimizando masa y optimizando estructura",
+      "Haciendo techos altos"
+    ],
+    "answer": "Minimizando masa y optimizando estructura"
+  },
+  {
+    "id": 28,
+    "type": "multiple-choice",
+    "question": "¿Qué es la 'transparencia fenomenológica'?",
+    "options": [
+      "Paredes de cristal",
+      "Claridad conceptual y legibilidad espacial",
+      "Ausencia de puertas"
+    ],
+    "answer": "Claridad conceptual y legibilidad espacial"
+  },
+  {
+    "id": 29,
+    "type": "multiple-choice",
+    "question": "¿Cuál es la diferencia entre transparencia física y fenomenológica?",
+    "options": [
+      "No hay diferencia",
+      "La física usa materiales; la fenomenológica es intelectual",
+      "La física es para el exterior"
+    ],
+    "answer": "La física usa materiales; la fenomenológica es intelectual"
+  },
+  {
+    "id": 30,
+    "type": "fill-in-the-blank",
+    "question": "El espacio vacío se debe construir como si fuera un ________.",
+    "answer": "material"
+  },
+  {
+    "id": 31,
+    "type": "multiple-choice",
+    "question": "¿Qué propiedad geométrica caracteriza al espacio vacío?",
+    "options": ["Irregularidad", "Alta simetría", "Curvatura"],
+    "answer": "Alta simetría"
+  },
+  {
+    "id": 32,
+    "type": "fill-in-the-blank",
+    "question": "La materia es el lugar donde la concentración de ________ es muy grande.",
+    "answer": "energía"
+  },
+  {
+    "id": 33,
+    "type": "multiple-choice",
+    "question": "¿Qué busca la supresión del dualismo entre interior y exterior?",
+    "options": [
+      "Que no haya ventanas",
+      "Continuidad espacial e interpenetración",
+      "Aumentar el costo"
+    ],
+    "answer": "Continuidad espacial e interpenetración"
+  },
+  {
+    "id": 34,
+    "type": "fill-in-the-blank",
+    "question": "Los umbrales difusos son herramientas para disolver los ________.",
+    "answer": "límites"
+  },
+  {
+    "id": 35,
+    "type": "multiple-choice",
+    "question": "¿Cuál es la unidad fundamental de la modernidad?",
+    "options": ["Luz y Sombra", "Tiempo y Espacio", "Piedra y Madera"],
+    "answer": "Tiempo y Espacio"
+  },
+  {
+    "id": 36,
+    "type": "multiple-choice",
+    "question": "¿Por qué el movimiento es determinante?",
+    "options": [
+      "Porque el espacio se aprehende al recorrerlo",
+      "Porque el edificio se mueve",
+      "Para hacer ejercicio"
+    ],
+    "answer": "Porque el espacio se aprehende al recorrerlo"
+  },
+  {
+    "id": 37,
+    "type": "multiple-choice",
+    "question": "¿Qué es la experiencia kinestésica?",
+    "options": [
+      "Génesis del espacio a través del movimiento",
+      "Uso de colores vibrantes",
+      "Sentir la temperatura"
+    ],
+    "answer": "Génesis del espacio a través del movimiento"
+  },
+  {
+    "id": 38,
+    "type": "multiple-choice",
+    "question": "¿Qué significa que la arquitectura es 'anticúbica'?",
+    "options": [
+      "Que no usa cubos",
+      "Que los espacios se desarrollan excentricamente",
+      "Que es redonda"
+    ],
+    "answer": "Que los espacios se desarrollan excentricamente"
+  },
+  {
+    "id": 39,
+    "type": "fill-in-the-blank",
+    "question": "La arquitectura anticúbica se desarrolla desde el ________ hacia la periferia.",
+    "answer": "centro"
+  },
+  {
+    "id": 40,
+    "type": "multiple-choice",
+    "question": "¿Qué impresión visual busca la arquitectura moderna?",
+    "options": ["Pesadez", "Ingravidez o suspensión", "Dureza"],
+    "answer": "Ingravidez o suspensión"
+  },
+  {
+    "id": 41,
+    "type": "multiple-choice",
+    "question": "Defina simetría como 'equilibrio de las diferencias'.",
+    "options": [
+      "Balance de partes desiguales",
+      "Espejo exacto",
+      "Desorden total"
+    ],
+    "answer": "Balance de partes desiguales"
+  },
+  {
+    "id": 42,
+    "type": "fill-in-the-blank",
+    "question": "Propiedad de ser indistinguible tras transformaciones: ________.",
+    "answer": "invariancia"
+  },
+  {
+    "id": 43,
+    "type": "multiple-choice",
+    "question": "¿Qué acepciones de simetría se fusionan?",
+    "options": [
+      "Equilibrio dinámico y operación geométrica",
+      "Luz y color",
+      "Antiguo y moderno"
+    ],
+    "answer": "Equilibrio dinámico y operación geométrica"
+  },
+  {
+    "id": 44,
+    "type": "multiple-choice",
+    "question": "¿Por qué 'ilimitado' es una paradoja en arquitectura?",
+    "options": [
+      "Porque siempre hay límites físicos",
+      "Porque el espacio es infinito",
+      "Porque no hay paredes"
+    ],
+    "answer": "Porque siempre hay límites físicos"
+  },
+  {
+    "id": 45,
+    "type": "multiple-choice",
+    "question": "¿Qué permite abrir la obra a lo equivalente y neutro?",
+    "options": [
+      "La simultaneidad de opuestos",
+      "Pintar todo de blanco",
+      "Usar solo vidrio"
+    ],
+    "answer": "La simultaneidad de opuestos"
+  },
+  {
+    "id": 46,
+    "type": "fill-in-the-blank",
+    "question": "Lo ilimitado se logra por la tensión entre límites físicos y ________.",
+    "answer": "percibidos"
+  },
+  {
+    "id": 47,
+    "type": "multiple-choice",
+    "question": "¿Qué caracteriza a un espacio 'fluido'?",
+    "options": [
+      "Que tiene agua",
+      "Integración programática e interpenetración",
+      "Que las paredes son curvas"
+    ],
+    "answer": "Integración programática e interpenetración"
+  },
+  {
+    "id": 48,
+    "type": "multiple-choice",
+    "question": "¿Cuáles son las funciones del concepto 'módulo'?",
+    "options": [
+      "Medida de lo sólido y unidad conceptual",
+      "Color y textura",
+      "Puertas y ventanas"
+    ],
+    "answer": "Medida de lo sólido y unidad conceptual"
+  },
+  {
+    "id": 49,
+    "type": "fill-in-the-blank",
+    "question": "El módulo define la métrica y la ________ de los elementos.",
+    "answer": "posición"
+  },
+  {
+    "id": 50,
+    "type": "multiple-choice",
+    "question": "¿Qué herramienta permite que un edificio parezca suspendido?",
+    "options": ["Cables de acero", "Un basamento o plataforma", "Heliocentrismo"],
+    "answer": "Un basamento o plataforma"
+  },
+  {
+    "id": 51,
+    "type": "multiple-choice",
+    "question": "¿Qué función cumple el basamento?",
+    "options": [
+      "Es una plataforma de transición entre terreno y edificio",
+      "Es el sótano",
+      "Es el jardín"
+    ],
+    "answer": "Es una plataforma de transición entre terreno y edificio"
+  },
+  {
+    "id": 52,
+    "type": "fill-in-the-blank",
+    "question": "El uso de ritmos regulares se define como ________.",
+    "answer": "regularidad"
+  },
+  {
+    "id": 53,
+    "type": "multiple-choice",
+    "question": "¿Cómo se evita la monotonía en la regularidad?",
+    "options": [
+      "Cambiando colores",
+      "Mediante el sentido de la organización y composición",
+      "Poniendo estatuas"
+    ],
+    "answer": "Mediante el sentido de la organización y composición"
+  },
+  {
+    "id": 54,
+    "type": "fill-in-the-blank",
+    "question": "Para lograr orden, la ________ es un camino válido.",
+    "answer": "asimetría"
+  },
+  {
+    "id": 55,
+    "type": "fill-in-the-blank",
+    "question": "Posibilidad de cambiar de función en el tiempo: ________.",
+    "answer": "reversibilidad"
+  },
+  {
+    "id": 56,
+    "type": "multiple-choice",
+    "question": "¿De qué depende la reversibilidad?",
+    "options": [
+      "De la transformación y flexibilidad",
+      "Del precio",
+      "Del clima"
+    ],
+    "answer": "De la transformación y flexibilidad"
+  },
+  {
+    "id": 57,
+    "type": "multiple-choice",
+    "question": "Defina 'Espacio continuo'.",
+    "options": [
+      "Ausencia de barreras físicas y conexiones visuales",
+      "Un pasillo muy largo",
+      "Una habitación redonda"
+    ],
+    "answer": "Ausencia de barreras físicas y conexiones visuales"
+  },
+  {
+    "id": 58,
+    "type": "fill-in-the-blank",
+    "question": "La neutralidad activa es la síntesis de ________.",
+    "answer": "opuestos"
+  },
+  {
+    "id": 59,
+    "type": "multiple-choice",
+    "question": "¿Qué es la ligereza conceptual?",
+    "options": [
+      "Sutileza en la expresión y simplicidad aparente",
+      "No pensar mucho",
+      "Usar globos"
+    ],
+    "answer": "Sutileza en la expresión y simplicidad aparente"
+  },
+  {
+    "id": 60,
+    "type": "multiple-choice",
+    "question": "¿Qué es la precisión técnica?",
+    "options": [
+      "Exactitud en ejecución y detalles constructivos",
+      "Usar herramientas láser",
+      "Dibujar con regla"
+    ],
+    "answer": "Exactitud en ejecución y detalles constructivos"
+  },
+  {
+    "id": 61,
+    "type": "fill-in-the-blank",
+    "question": "Actúa como definidor espacial puro: el ________.",
+    "answer": "plano"
+  },
+  {
+    "id": 62,
+    "type": "fill-in-the-blank",
+    "question": "El prisma rectangular permite la máxima ________.",
+    "answer": "flexibilidad"
+  },
+  {
+    "id": 63,
+    "type": "fill-in-the-blank",
+    "question": "Estabilidad formal donde nada se puede alterar: ________.",
+    "answer": "consistencia"
+  },
+  {
+    "id": 64,
+    "type": "multiple-choice",
+    "question": "¿Qué es el arte por oposición a la ciencia?",
+    "options": [
+      "Es el orden gratuito para el goce estético",
+      "Es una mentira",
+      "Es solo para museos"
+    ],
+    "answer": "Es el orden gratuito para el goce estético"
+  },
+  {
+    "id": 65,
+    "type": "multiple-choice",
+    "question": "¿Qué es la arquitectura según Schelling?",
+    "options": [
+      "Hacer casas",
+      "La representación de la construcción",
+      "Dibujar planos"
+    ],
+    "answer": "La representación de la construcción"
+  },
+  {
+    "id": 66,
+    "type": "multiple-choice",
+    "question": "¿Con qué movimiento está relacionada la arquitectura moderna?",
+    "options": ["Barroco", "Suprematismo", "Renacimiento"],
+    "answer": "Suprematismo"
+  },
+  {
+    "id": 67,
+    "type": "multiple-choice",
+    "question": "¿A qué se refiere con 'representar'?",
+    "options": [
+      "Actuar en un teatro",
+      "Hacer presente algo con figuras",
+      "Vender una idea"
+    ],
+    "answer": "Hacer presente algo con figuras"
+  },
+  {
+    "id": 68,
+    "type": "multiple-choice",
+    "question": "¿Qué es la 'Realidad vivida'?",
+    "options": [
+      "La experimentada por los sentidos",
+      "Los sueños",
+      "Leer un libro"
+    ],
+    "answer": "La experimentada por los sentidos"
+  },
+  {
+    "id": 69,
+    "type": "multiple-choice",
+    "question": "¿Qué es la 'Realidad estética'?",
+    "options": [
+      "Sistema de relaciones apreciado visualmente",
+      "Pintar una pared",
+      "Comprar arte"
+    ],
+    "answer": "Sistema de relaciones apreciado visualmente"
+  },
+  {
+    "id": 70,
+    "type": "yes-no",
+    "question": "¿Se enfrenta el arquitecto a un papel en blanco al proyectar?",
+    "answer": "NO"
+  },
+  {
+    "id": 71,
+    "type": "fill-in-the-blank",
+    "question": "La forma artística es la manifestación de la ________ interna.",
+    "answer": "configuración"
+  },
+  {
+    "id": 72,
+    "type": "multiple-choice",
+    "question": "¿Qué debe ver el arquitecto donde los demás ven objetos?",
+    "options": ["Dinero", "Un sistema de relaciones", "Solo paredes"],
+    "answer": "Un sistema de relaciones"
+  },
+  {
+    "id": 73,
+    "type": "yes-no",
+    "question": "¿Es la arquitectura el objeto mismo?",
+    "answer": "NO"
+  },
+  {
+    "id": 74,
+    "type": "multiple-choice",
+    "question": "¿Cómo se expresa la arquitectura como forma artística?",
+    "options": [
+      "Por su configuración interna",
+      "Por su precio",
+      "Por su altura"
+    ],
+    "answer": "Por su configuración interna"
+  },
+  {
+    "id": 75,
+    "type": "yes-no",
+    "question": "¿Son todos los edificios arquitectura?",
+    "answer": "NO"
+  },
+  {
+    "id": 76,
+    "type": "multiple-choice",
+    "question": "¿Qué es la abstracción?",
+    "options": [
+      "Proceso de extraer lo esencial",
+      "Dibujar sin sentido",
+      "Olvidar cosas"
+    ],
+    "answer": "Proceso de extraer lo esencial"
+  },
+  {
+    "id": 77,
+    "type": "multiple-choice",
+    "question": "¿Qué cualidad caracteriza las mejores obras según Le Corbusier?",
+    "options": ["Lujo", "Rigor", "Ornamentación"],
+    "answer": "Rigor"
+  },
+  {
+    "id": 78,
+    "type": "fill-in-the-blank",
+    "question": "En la concepción moderna el sistema de relaciones tiende a lo ________.",
+    "answer": "universal"
+  },
+  {
+    "id": 79,
+    "type": "multiple-choice",
+    "question": "¿De qué depende el juicio estético?",
+    "options": [
+      "De usar equilibrio en vez de simetría",
+      "De la opinión de la gente",
+      "Del gusto personal"
+    ],
+    "answer": "De usar equilibrio en vez de simetría"
+  },
+  {
+    "id": 80,
+    "type": "multiple-choice",
+    "question": "¿Cuál es el primer requisito de la arquitectura moderna?",
+    "options": ["Que sea barata", "Tener consistencia formal propia", "Ser muy grande"],
+    "answer": "Tener consistencia formal propia"
+  },
+  {
+    "id": 81,
+    "type": "fill-in-the-blank",
+    "question": "En la arquitectura moderna el programa proporciona ________.",
+    "answer": "identidad"
+  },
+  {
+    "id": 82,
+    "type": "multiple-choice",
+    "question": "¿Cuál es la materia prima de la arquitectura?",
+    "options": [
+      "El ladrillo",
+      "La misma arquitectura (historia y elementos)",
+      "El software"
+    ],
+    "answer": "La misma arquitectura (historia y elementos)"
+  },
+  {
+    "id": 83,
+    "type": "multiple-choice",
+    "question": "¿Con qué actúa el proyecto moderno?",
+    "options": ["Con reglas fijas", "Con criterios de forma", "Con modelos antiguos"],
+    "answer": "Con criterios de forma"
+  },
+  {
+    "id": 84,
+    "type": "multiple-choice",
+    "question": "¿Qué es la tectonicidad?",
+    "options": [
+      "Donde el orden visual y material confluyen",
+      "Hacer edificios en zonas sísmicas",
+      "Usar mucha piedra"
+    ],
+    "answer": "Donde el orden visual y material confluyen"
+  },
+  {
+    "id": 85,
+    "type": "multiple-choice",
+    "question": "¿Quién dijo: 'Los límites de mi lenguaje significan los límites de mi mundo'?",
+    "options": ["Le Corbusier", "Wittgenstein", "Mies"],
+    "answer": "Wittgenstein"
+  },
+  {
+    "id": 86,
+    "type": "multiple-choice",
+    "question": "¿Quiénes prepararon la exposición de Estilo Internacional?",
+    "options": [
+      "Hitchcock y Johnson",
+      "Picasso y Dali",
+      "Wright y Gropius"
+    ],
+    "answer": "Hitchcock y Johnson"
+  },
+  {
+    "id": 87,
+    "type": "multiple-choice",
+    "question": "¿En qué consiste el núcleo estético del arte moderno?",
+    "options": ["Color y luz", "Orden y relaciones", "Curvas y adornos"],
+    "answer": "Orden y relaciones"
+  },
+  {
+    "id": 88,
+    "type": "multiple-choice",
+    "question": "¿Quién es el autor de: 'El arquitecto ve relaciones donde todos ven cosas'?",
+    "options": ["Helio Piñón", "Zaha Hadid", "Frank Gehry"],
+    "answer": "Helio Piñón"
+  },
+  {
+    "id": 89,
+    "type": "multiple-choice",
+    "question": "¿Qué es la visualidad?",
+    "options": [
+      "Relevancia de la visión como juicio",
+      "Usar anteojos",
+      "Hacer renders"
+    ],
+    "answer": "Relevancia de la visión como juicio"
+  },
+  {
+    "id": 90,
+    "type": "multiple-choice",
+    "question": "¿Qué es la intelección visual?",
+    "options": [
+      "Reconocer estructuras a través de la visión",
+      "Mirar mucho una foto",
+      "Saber dibujar bien"
+    ],
+    "answer": "Reconocer estructuras a través de la visión"
+  },
+  {
+    "id": 91,
+    "type": "multiple-choice",
+    "question": "¿Cuál es la auténtica noción de originalidad?",
+    "options": ["Ser raro", "Ir al origen", "Usar colores nuevos"],
+    "answer": "Ir al origen"
+  },
+  {
+    "id": 92,
+    "type": "multiple-choice",
+    "question": "¿Qué marca el inicio del ciclo proyectual?",
+    "options": ["El RIP-P", "Comprar materiales", "Pagar la matrícula"],
+    "answer": "El RIP-P"
+  },
+  {
+    "id": 93,
+    "type": "multiple-choice",
+    "question": "¿Qué función cumplen las flechas claras en el esquema?",
+    "options": ["Indican norte", "Caminos de retroalimentación", "Salida de emergencia"],
+    "answer": "Caminos de retroalimentación"
+  },
+  {
+    "id": 94,
+    "type": "multiple-choice",
+    "question": "¿Cuáles son los grupos del proceso proyectual?",
+    "options": [
+      "Precursores, EMD, Determinantes y Formalización",
+      "Planos, Maquetas y Renders",
+      "Alumnos, Docentes y Directores"
+    ],
+    "answer": "Precursores, EMD, Determinantes y Formalización"
+  },
+  {
+    "id": 95,
+    "type": "multiple-choice",
+    "question": "¿Qué es el RIP-P?",
+    "options": [
+      "Un software",
+      "Acervo de información personal y profesional",
+      "Un tipo de cemento"
+    ],
+    "answer": "Acervo de información personal y profesional"
+  },
+  {
+    "id": 96,
+    "type": "yes-no",
+    "question": "¿El conocimiento común o vulgar forma parte del RIP-P?",
+    "answer": "NO"
+  },
+  {
+    "id": 97,
+    "type": "multiple-choice",
+    "question": "¿En qué se basa el enfoque del Taller?",
+    "options": [
+      "En copiar edificios",
+      "En la arquitectura moderna y valores universales",
+      "En el diseño clásico"
+    ],
+    "answer": "En la arquitectura moderna y valores universales"
+  },
+  {
+    "id": 98,
+    "type": "yes-no",
+    "question": "¿Los 'atributos' reemplazan la capacidad de juicio estético?",
+    "answer": "NO"
+  },
+  {
+    "id": 99,
+    "type": "multiple-choice",
+    "question": "¿Qué significa que el proyecto es una (re)construcción?",
+    "options": [
+      "Arreglar un edificio viejo",
+      "Aprender de la arquitectura para crear un orden nuevo",
+      "Construir dos veces"
+    ],
+    "answer": "Aprender de la arquitectura para crear un orden nuevo"
+  },
+  {
+    "id": 100,
+    "type": "multiple-choice",
+    "question": "¿Cuál es una parte de la (re)construcción?",
+    "options": ["Pintar", "Recorte", "Vender"],
+    "answer": "Recorte"
+  },
+  {
+    "id": 101,
+    "type": "multiple-choice",
+    "question": "¿Qué es el ejercicio de 'Confluencia'?",
+    "options": [
+      "Comparar dos proyectos con atributos similares",
+      "Mezclar dos maquetas",
+      "Una reunión de alumnos"
+    ],
+    "answer": "Comparar dos proyectos con atributos similares"
+  },
+  {
+    "id": 102,
+    "type": "multiple-choice",
+    "question": "¿Qué es el 'Recorte'?",
+    "options": [
+      "Herramienta que selecciona un sector con la esencia técnica",
+      "Usar tijeras",
+      "Bajar el presupuesto"
+    ],
+    "answer": "Herramienta que selecciona un sector con la esencia técnica"
+  },
+  {
+    "id": 103,
+    "type": "multiple-choice",
+    "question": "¿Qué aspecto se reconoce en el recorte?",
+    "options": ["Huella arquitectónica", "Precio del terreno", "Nombre del cliente"],
+    "answer": "Huella arquitectónica"
+  },
+  {
+    "id": 104,
+    "type": "multiple-choice",
+    "question": "¿Qué es la Estrategia Multidimensional (EMD)?",
+    "options": [
+      "Un modelo interactivo para explorar alternativas",
+      "Un videojuego",
+      "Un viaje al espacio"
+    ],
+    "answer": "Un modelo interactivo para explorar alternativas"
+  },
+  {
+    "id": 105,
+    "type": "multiple-choice",
+    "question": "¿Qué etapa de la EMD tiene énfasis en abstracción preliminar?",
+    "options": ["EMD1", "EMD2", "EMD3"],
+    "answer": "EMD1"
+  },
+  {
+    "id": 106,
+    "type": "multiple-choice",
+    "question": "¿Cómo se usa la IA en la EMD?",
+    "options": [
+      "Para generar imágenes a partir de modelos 3D",
+      "Para que haga todo el proyecto",
+      "No se usa"
+    ],
+    "answer": "Para generar imágenes a partir de modelos 3D"
+  },
+  {
+    "id": 107,
+    "type": "multiple-choice",
+    "question": "¿Qué es la 'Construcción del Lugar'?",
+    "options": [
+      "Poner los ladrillos",
+      "Apropiarse del espacio mediante sensaciones",
+      "Limpiar el terreno"
+    ],
+    "answer": "Apropiarse del espacio mediante sensaciones"
+  },
+  {
+    "id": 108,
+    "type": "multiple-choice",
+    "question": "¿Qué metodología se usa para el lugar?",
+    "options": ["Deriva Situacionista", "Cálculo matemático", "Encuestas"],
+    "answer": "Deriva Situacionista"
+  },
+  {
+    "id": 109,
+    "type": "multiple-choice",
+    "question": "¿Qué es la investigación proyectual?",
+    "options": [
+      "Búsqueda de información para resolver variables",
+      "Leer novelas",
+      "Mirar la tele"
+    ],
+    "answer": "Búsqueda de información para resolver variables"
+  },
+  {
+    "id": 110,
+    "type": "multiple-choice",
+    "question": "¿En qué debe terminar la investigación?",
+    "options": [
+      "En requerimientos de diseño",
+      "En una nota",
+      "En un libro"
+    ],
+    "answer": "En requerimientos de diseño"
+  },
+  {
+    "id": 111,
+    "type": "yes-no",
+    "question": "¿Proyectar es simplemente 'resolver un problema'?",
+    "answer": "NO"
+  },
+  {
+    "id": 112,
+    "type": "multiple-choice",
+    "question": "¿De dónde provienen los objetivos arquitectónicos?",
+    "options": [
+      "De la teoría y atributos",
+      "Del azar",
+      "De los deseos del cliente"
+    ],
+    "answer": "De la teoría y atributos"
+  },
+  {
+    "id": 113,
+    "type": "fill-in-the-blank",
+    "question": "La idea es la ________ de factores concretos.",
+    "answer": "síntesis"
+  },
+  {
+    "id": 114,
+    "type": "yes-no",
+    "question": "¿Sigue la arquitectura a la función en la modernidad según el taller?",
+    "answer": "NO"
+  },
+  {
+    "id": 115,
+    "type": "multiple-choice",
+    "question": "¿Qué es satisfacer un programa?",
+    "options": [
+      "Hacerlo a partir de un edificio concebido previamente",
+      "Hacer una lista de cuartos",
+      "Copiar lo que pide el cliente"
+    ],
+    "answer": "Hacerlo a partir de un edificio concebido previamente"
+  },
+  {
+    "id": 116,
+    "type": "multiple-choice",
+    "question": "¿Qué paso es la Formalización 1?",
+    "options": ["Abstracción y modulación", "Presupuesto", "Obra"],
+    "answer": "Abstracción y modulación"
+  },
+  {
+    "id": 117,
+    "type": "multiple-choice",
+    "question": "¿Qué compone la Formalización 3?",
+    "options": [
+      "Anteproyecto completo",
+      "Solo dibujos",
+      "Una idea vaga"
+    ],
+    "answer": "Anteproyecto completo"
+  },
+  {
+    "id": 118,
+    "type": "multiple-choice",
+    "question": "¿Qué dimensión BIM se implementó en el taller?",
+    "options": ["2D", "5D", "10D"],
+    "answer": "5D"
+  },
+  {
+    "id": 119,
+    "type": "yes-no",
+    "question": "¿Es obligatorio el diseño de paisaje?",
+    "answer": "SÍ"
+  },
+  {
+    "id": 120,
+    "type": "multiple-choice",
+    "question": "¿Qué integra la evaluación continua?",
+    "options": ["Autoevaluación y pares", "Solo el profesor", "Sorteo"],
+    "answer": "Autoevaluación y pares"
+  },
+  {
+    "id": 121,
+    "type": "multiple-choice",
+    "question": "¿Propósito de encuestas internas?",
+    "options": [
+      "Ajustar el trabajo docente",
+      "Hacer amigos",
+      "Perder tiempo"
+    ],
+    "answer": "Ajustar el trabajo docente"
+  },
+  {
+    "id": 122,
+    "type": "fill-in-the-blank",
+    "question": "El espacio vacío posee un alto grado de ________.",
+    "answer": "simetría"
+  }
+]
