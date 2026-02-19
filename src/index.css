@@ -130,7 +130,7 @@ h1 {
   transition: all 0.3s;
   background: white;
   border: 1px solid #ddd;
-  border-radius: 50%;
+  border-radius: 20px;
   width: 70px;
   height: 40px;
   cursor: pointer;
@@ -140,7 +140,6 @@ h1 {
   align-items: center;
   justify-content: center;
   z-index: 999;
-  border-radius: 20px;
 }
 
 .admin-toggle:hover {
@@ -177,18 +176,20 @@ h1 {
   background: #dbeafe;
 }
 
-input[type="text"] {
+input[type="text"],
+input[type="email"],
+input[type="password"] {
   width: 100%;
   padding: 1rem;
   border: 2px solid #e2e8f0;
   border-radius: var(--radius);
   font-size: 1rem;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   outline: none;
   transition: border-color 0.2s;
 }
 
-input[type="text"]:focus {
+input:focus {
   border-color: var(--primary);
 }
 
